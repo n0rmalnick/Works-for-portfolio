@@ -1,2 +1,2 @@
 # Works-for-portfolio
-Repo to automatically upload works for online portfolio made by Ilyas
+Рандомный лох, умею в blender и zbrush, плюс минус разбираюсь в 3d. Знаю ретопологию uv развёртку и pbr материалы. Предпочитаю скульптинг персонажей.
